@@ -32,3 +32,13 @@ footer {
 .stored-course-img {
   width: 100px;
 }
+
+.checkbox-select-all-options {
+  width: 200px;
+  margin: 0 16px;
+}
+
+.disable {
+  pointer-events: none;
+  opacity: 0.7;
+}
